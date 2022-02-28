@@ -10,30 +10,30 @@ In this project, we have access to approximately 50 datasets. Each one contains 
 
 After loading DataFrames to tables in pgAdmin, we run a query to check that the tables have been populated.
 
-![This is an image](sql1.png)
+![This is an image](https://github.com/samiramghd/Amazon_Vine_Analysis/blob/main/images/sql1.PNG)
 
-![This is an image](sql2.png)
+![This is an image](https://github.com/samiramghd/Amazon_Vine_Analysis/blob/main/images/sql2.PNG)
 
-How many Vine reviews and non-Vine reviews were there?
+#### How many Vine reviews and non-Vine reviews were there?
 
 - total Vine reviews : 22
 - total non-Vine reviews : 26987
 
-![This is an image](q1.png)
+![This is an image](https://github.com/samiramghd/Amazon_Vine_Analysis/blob/main/images/q1.PNG)
 
-How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+#### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
 - 5 stars Vine reviews : 13
 - 5 stars non-Vine reviews : 14475
 
-![This is an image](q2.png)
+![This is an image](https://github.com/samiramghd/Amazon_Vine_Analysis/blob/main/images/q2.PNG)
 
-What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+#### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
 - percentage of 5 stars Vine reviews : 59.09090909090909
 - percentage of 5 stars non-Vine reviews : 53.63693630266425
 
-![This is an image](q3.png)
+![This is an image](https://github.com/samiramghd/Amazon_Vine_Analysis/blob/main/images/q3.PNG)
 
 ### Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
 
